@@ -1,0 +1,1 @@
+mklink /D C:\Users\%USERNAME%\AppData\Roaming\Elgato\StreamDeck\Plugins\com.loudpumpkins.pomodoro.sdPlugin %cd%\src\com.loudpumpkins.pomodoro.sdPlugin
